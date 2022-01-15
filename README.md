@@ -1,5 +1,5 @@
 # algonquin-pronounciation
-This program determines the pronunciation of an Algonquin word
+This program determines the pronunciation of an Algonquin word.
 
 ## Features
 - Allows user to check if a single character is a valid Algonquin consonant.
