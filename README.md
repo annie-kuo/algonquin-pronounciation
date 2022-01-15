@@ -5,7 +5,7 @@ Most Indigenous languages in Canada are considered endangered, and indigenous pe
 
 There are nine Indigenous languages still used in Quebec: Montagnais, Naskapi, Inuktitut, Cree, Algonquin, Atikamekw, Mohawk, Abenaki, and Mi’kmaq. This program allows us to retrieve the pronunciation of an Algonquin word.
 
-For more information, click [here](http://www.native-languages.org/algonquin.htm)
+For more information, click [here](http://www.native-languages.org/algonquin.htm).
 
 ## Features
 - Allows user to check if a single character is a valid Algonquin consonant.
